@@ -11,7 +11,7 @@ Focused on architectural clarity, edge-case control, and robust documentation.
 - Workflow automation and session management
 
 ## 📦 Featured Projects
-- [FloatTools](https://github.com/TetianaNakonechna/FloatTools) — Transparent float handling in PHP
+- [FloatTools](https://github.com/TetianaN-cp/FloatTools) — Transparent float handling in PHP
 - [SessionLogger](#) — Modular session tracking with architectural clarity *(coming soon)*
 
 ## 📚 Philosophy
@@ -23,3 +23,4 @@ I build systems that are:
 ## 📬 Contact
 Feel free to reach out via GitHub Issues or Discussions.  
 I welcome collaboration, feedback, and architectural dialogue.
+
