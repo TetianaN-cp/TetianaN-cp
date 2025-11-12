@@ -12,7 +12,7 @@ Focused on architectural clarity, edge-case control, and robust documentation.
 
 ## 📦 Featured Projects
 - [FloatTools](https://github.com/TetianaN-cp/FloatTools) — Transparent float handling in PHP
-- [SessionGuard](https://github.com/TetianaN-cp/SessionGuard) — Modular session tracking with architectural clarity
+- [SessionGuard](https://github.com/TetianaN-cp/SessionGuard) — Minimalist PHP session manager with auto-cleanup and disk space protection.
 
 ## 📚 Philosophy
 I build systems that are:
@@ -23,5 +23,6 @@ I build systems that are:
 ## 📬 Contact
 Feel free to reach out via GitHub Issues or Discussions.  
 I welcome collaboration, feedback, and architectural dialogue.
+
 
 
