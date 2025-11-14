@@ -19,10 +19,13 @@ I build systems that are:
 - Minimal and maintainable
 - Transparent in logic and configuration
 - Documented for future-proofing and clarity
+I don’t know everything.
+I simply build things in a way that makes everything clear — to me and to others.
 
 ## 📬 Contact
 Feel free to reach out via GitHub Issues or Discussions.  
 I welcome collaboration, feedback, and architectural dialogue.
+
 
 
 
